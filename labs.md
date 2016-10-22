@@ -18,5 +18,5 @@
 1. Gackowski, Maciej https://github.com/mgackowski96
 1. [Gajda, Klaudia](https://github.com/klaudiaga/srod_prog)
 1. Galicki, Paweł
-1. Hoffman, Łukasz
+1. Hoffman, Łukasz https://github.com/highkillyou
 1. Mydło, Dawid
